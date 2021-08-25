@@ -1,0 +1,22 @@
+C:\Users\gwend>cd SoftDevI
+
+C:\Users\gwend\SoftDevI>mkdir Unit01
+
+C:\Users\gwend\SoftDevI>cd Unit01
+
+C:\Users\gwend\SoftDevI\Unit01 notepad Gwen.txt
+
+C:\Users\gwend\SoftDevI\Unit01 cp Gwen.txt
+
+C:\Users\gwend\SoftDevI\Unit01 mkdir Gwendolyn
+
+C:\Users\gwend\SoftDevI\Unit01 cd Gwendolyn
+
+C:\Users\gwend\SoftDevI\Unit01\Gwendolyn
+
+C:\Users\gwend\SoftDevI\Unit01\Gwendolyn cd..
+
+C:\Users\gwend\SoftDevI\Unit01
+
+C:\Users\gwend\SoftDevI\Unit01 rm Assignment01
+
